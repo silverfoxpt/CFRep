@@ -16,5 +16,16 @@ using namespace std;
 
 int main()
 {
+    int t; cin >> t;
+    for (int co = 0; co < t; co++)
+    {
+        int n; cin >> n;
+        string s; cin >> s;
 
+        int a[10]; for (int i = 0; i < 10; i++) {a[i] = 0;}
+        if (s.length() < 100)
+        {
+            for (int i = 0; i < s.length())
+        }
+    }
 }
